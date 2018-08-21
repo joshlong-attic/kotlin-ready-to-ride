@@ -1,10 +1,7 @@
-# Kotlin: Ready to Ride 
+Kotlin: From Language to Application, Ready to Ride 
 
+Have you wondered what all this excitement about Kotlin is? Come see Venkat Subramaniam (@venkat_s) and Josh Long (@starbuxman) introduce the wonderful capabilities of Kotlin—like its ability to reduce mountains of code to most elegant expressions, support for rich internal DSLs, facilities for both functional programming and object oriented programming, and the power to do asynchronous programming with coroutines. Then watch them take the language to where your applications are, the server side, the mobile, and frontend.
 
-
-There's probably not going to be another general purpose programming language on the order of C or Java, but that doesn't mean your programming language has to limit you in 2018, either. Meet Kotlin, a language that's ready to ride. 
-
-Come hear Dr. Venkat Subramaniam (@venkat_s) and Josh Long (@starbuxman) discuss the wonderful capabilities of Kotlin, its ability to create DSLs, support coroutines, and then watch them take the language where your applications are, on the server side, mobile, and beyond. 
 
 
 ## To Do: 
